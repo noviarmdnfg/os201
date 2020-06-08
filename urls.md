@@ -1,5 +1,6 @@
-layout: page
+---
 permalink: /URLs/
+---
 
 link yang berguna untuk OS:
 [OS](https://os.vlsm.org/)
