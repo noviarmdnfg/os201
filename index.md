@@ -10,3 +10,5 @@ halaman ini dibuat sebagai salah satu tugas ujian akhir kelas sistem operasi.
 ## Link Penting OS
 untuk LINK yang penting OS [klik disini](URLs/)
 
+B - 1806147092 - Novia Ramadani
+
