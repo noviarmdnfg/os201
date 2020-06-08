@@ -1,3 +1,4 @@
+layout: page
 permalink: /URLs/
 
 link yang berguna untuk OS:
